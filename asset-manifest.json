@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Goshishah/first-react-deployment/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Goshishah/first-react-deployment/static/js/main.1f7e25eb.chunk.js",
+    "main.js.map": "/Goshishah/first-react-deployment/static/js/main.1f7e25eb.chunk.js.map",
+    "runtime-main.js": "/Goshishah/first-react-deployment/static/js/runtime-main.1a0d2932.js",
+    "runtime-main.js.map": "/Goshishah/first-react-deployment/static/js/runtime-main.1a0d2932.js.map",
+    "static/js/2.8a22ffe8.chunk.js": "/Goshishah/first-react-deployment/static/js/2.8a22ffe8.chunk.js",
+    "static/js/2.8a22ffe8.chunk.js.map": "/Goshishah/first-react-deployment/static/js/2.8a22ffe8.chunk.js.map",
+    "index.html": "/Goshishah/first-react-deployment/index.html",
+    "precache-manifest.4e5e83d864f166b7147065569c72747e.js": "/Goshishah/first-react-deployment/precache-manifest.4e5e83d864f166b7147065569c72747e.js",
+    "service-worker.js": "/Goshishah/first-react-deployment/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Goshishah/first-react-deployment/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8a22ffe8.chunk.js.LICENSE.txt": "/Goshishah/first-react-deployment/static/js/2.8a22ffe8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Goshishah/first-react-deployment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a0d2932.js",
+    "static/js/2.8a22ffe8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1f7e25eb.chunk.js"
+  ]
+}
